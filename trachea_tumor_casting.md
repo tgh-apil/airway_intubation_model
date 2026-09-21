@@ -17,7 +17,7 @@ This pathological variant of the trachea represents a soft tumor that occludes v
 - Two-part Platinum Cure Silicone Rubber
   - Ecoflex 00-20: Available from [Smooth-On](https://www.smooth-on.com/products/ecoflex-00-20/)
 - Degas chamber (optional)
-- Silc Pig silicone pigments in blood and skin tone of choice: Available from [Smooth-On](https://www.smooth-on.com/products/silc-pig/)
+- Silc Pig silicone pigments in blood: Available from [Smooth-On](https://www.smooth-on.com/products/silc-pig/)
 - Mold release agent: Available from [Smooth-On](https://www.smooth-on.com/product-line/universal-mold-release/)
 - Hot glue gun
 - Clay
