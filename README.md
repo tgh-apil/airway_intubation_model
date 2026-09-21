@@ -4,7 +4,7 @@
 
 These instructions are for the assembly of the model once each individual component has been completed. Further instructions for the silicone casting of individual components to follow.
 
-## Hardware & equipment
+## Materials & equipment
 
 ### Hardware
 - M4 screws:
@@ -17,21 +17,21 @@ These instructions are for the assembly of the model once each individual compon
   - 2 x 14mm
   - 4 x 18mm
 - 4 x M3 nuts
-- Mesh stretch fabric (nylon, polyester, etc.)
-- Glue gun
 - Clamp
 
-### Printing equipment
+### Printing
 - Polylactic Acid (PLA)
 - Flexible filament (TPE, etc.)
 - Fused Deposition Modelling 3D printer
 
-### Casting equipment
+### Casting
 - Two-part Platinum Cure Silicone Rubber
   - Ecoflex 00-20: Available from [Smooth-On](https://www.smooth-on.com/products/ecoflex-00-20/)
   - Ecoflex 00-30: Available from [Smooth-On](https://www.smooth-on.com/products/ecoflex-00-30/)
 - Degas Chamber (Optional)
 - Silc Pig silicone pigments in blood and skin tone of choice: Available from [Smooth-On](https://www.smooth-on.com/products/silc-pig/)
+- Mesh stretch fabric (nylon, polyester, etc.)
+- Glue gun
 
 ## Components
 ### Printed components
@@ -67,9 +67,6 @@ To be printed in flexible plastic (TPE, etc.):
 Manufacturing instructions for these components to follow.
 
 ## Model Assembly Instructions
-
-### Hardware
-
 1. Attach the skull to the silicone-cast pharynx with four 10mm M4 screws.
 <img src="https://github.com/tgh-apil/airway_intubation_model/blob/main/images/model_assembly_instructions/1_attaching_skull_pharynx.png" width="400">
 
