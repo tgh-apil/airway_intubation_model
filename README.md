@@ -55,6 +55,7 @@ To be printed in flexible plastic (TPE, etc.):
   - healthy and pathological (tumor) variants
 
 ### Silicone components
+Instructions for casting and assembling these components are linked.
 - pharynx *(cast with 3D printed pharynx component)*
 - mandible *(cast with mandible and epiglottis plate components)*
   - healthy and pathological (base of tongue tumor) variants
@@ -63,9 +64,7 @@ To be printed in flexible plastic (TPE, etc.):
 - skin *(cast with mesh fabric)*
 - silicone hinges *(cast with mesh fabric)*
 - trachea tumor
-  - for pathological trachea variant
-
-Manufacturing instructions for these components to follow.
+  - for [pathological trachea variant](https://github.com/tgh-apil/airway_intubation_model/blob/main/trachea_tumor_casting.md)
 
 ## Model Assembly Instructions
 1. Attach the skull to the silicone-cast pharynx with four 10mm M4 screws.
