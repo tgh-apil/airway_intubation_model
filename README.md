@@ -29,6 +29,7 @@ These instructions are for the assembly of the model once each individual compon
   - Ecoflex 00-20: Available from [Smooth-On](https://www.smooth-on.com/products/ecoflex-00-20/)
   - Ecoflex 00-30: Available from [Smooth-On](https://www.smooth-on.com/products/ecoflex-00-30/)
 - Degas Chamber (Optional)
+- Mold release agent: Available from [Smooth-On](https://www.smooth-on.com/product-line/universal-mold-release/)
 - Silc Pig silicone pigments in blood and skin tone of choice: Available from [Smooth-On](https://www.smooth-on.com/products/silc-pig/)
 - Mesh stretch fabric (nylon, polyester, etc.)
 - Glue gun
