@@ -24,11 +24,11 @@ This pathological variant of the trachea represents a soft tumor that occludes v
 
 ### Components
 To be printed in hard plastic (PLA, etc.):
-- Tumor mold (trach_tumor_mold.stl)
-- Tumor holders parts 1 and 2 (trach_tumor_holder_1.stl and trach_tumor_holder_2.stl)
+- Tumor mold ([trach_tumor_mold.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/trachea/pathological/trach_tumor_mold.stl))
+- Tumor holders parts 1 and 2 ([trach_tumor_holder_1.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/trachea/pathological/trach_tumor_holder_1.stl) and [trach_tumor_holder_2.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/trachea/pathological/trach_tumor_holder_2.stl))
 
 To be printed in flexible plastic (TPE, etc.):
-- Pathological trachea (trachea_tumor.stl)*
+- Pathological trachea ([trachea_tumor.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/trachea/pathological/trachea_tumor.stl))
 
 ### Instructions
 1. Print the components listed above.
