@@ -52,7 +52,7 @@ To be printed in flexible plastic (TPE, etc.):
 - nasal passage
 - thyroid cartilage
 - trachea
-  - healthy and pathological (tumor) variants
+  - healthy ([trachea_healthy_v3.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/trachea/trachea_healthy_v3.stl)) and pathological ([trachea_tumor.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/trachea/pathological/trachea_tumor.stl)) variants
 
 ### Silicone components
 Instructions for casting and assembling these components are linked.
