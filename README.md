@@ -40,7 +40,7 @@ To be printed in hard plastic (PLA, etc.):
 - base cover
 - base
 - skull
-- pharynx
+- pharynx ([upper_jaw_pharynx.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/pharynx_casting/upper_jaw_pharynx.stl))
 - mandible
 - epiglottis plate
 - forehead and neck bars
@@ -55,8 +55,8 @@ To be printed in flexible plastic (TPE, etc.):
   - healthy ([trachea_healthy_v3.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/trachea/trachea_healthy_v3.stl)) and pathological ([trachea_tumor.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/trachea/pathological/trachea_tumor.stl)) variants
 
 ### Silicone components
-Instructions for casting and assembling these components are linked.
-- pharynx *(cast with 3D printed pharynx component)*
+Instructions for casting and assembling these components are linked below.
+- [pharynx](https://github.com/tgh-apil/airway_intubation_model/blob/main/pharynx_casting.md) *(cast with 3D printed pharynx component)*
 - mandible *(cast with mandible and epiglottis plate components)*
   - healthy and pathological (base of tongue tumor) variants
 - vocal folds *(cast with vocal fold wing components)*
