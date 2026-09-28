@@ -7,6 +7,7 @@ This pathological variant of the trachea represents a soft tumor that occludes v
 ### Materials & equipment
 #### Hardware
 - 4 x 10mm M3 screws
+- Power drill or screwdriver
 
 #### Printing
 - Hard plastic filament, (PLA, etc.)
@@ -36,12 +37,12 @@ To be printed in flexible plastic (TPE, etc.):
 2. Apply mold release agent to trach_tumor_mold.stl. Do not apply it to trach_tumor_holder_1.stl, as the silicone is not intended to be removed from this component.
 
 3. Assemble the two mold components with four 10mm M3 screws. Seal the gaps with clay, then use a heat gun to seal all cracks in the mold to ensure silicone does not leak out while casting.
-<img src="https://github.com/tgh-apil/airway_intubation_model/blob/main/images/trachea_tumor_casting/trach_tumor_mold.png" width="600">
+    <img src="https://github.com/tgh-apil/airway_intubation_model/blob/main/images/trachea_tumor_casting/trach_tumor_mold.png" width="600">
 
-4. Mix 25 mL of Ecoflex 00-20 silicone, dyed with Silc Pig blood pigment. Inject into mold using the largest vent hole on the top of the mold.
+4. Mix 25 mL of Ecoflex 00-20 silicone, dyed with Silc Pig blood pigment. Inject into mold using the largest vent hole.
 
 5. Once cured, demold and remove trach_tumor_mold.stl. Do not remove the silicone from the holder component.
-<img src="https://github.com/tgh-apil/airway_intubation_model/blob/main/images/trachea_tumor_casting/holder1_trachea.png" width="400">
+    <img src="https://github.com/tgh-apil/airway_intubation_model/blob/main/images/trachea_tumor_casting/holder1_trachea.png" width="400">
 
 6. Attach holders 1 and 2 around the pathological trachea so that the tumor fits through the hole in the trachea and is visible in the airway. Secure the two holders together using four 10mm M3 screws.
-<img src="https://github.com/tgh-apil/airway_intubation_model/blob/main/images/trachea_tumor_casting/holder1_holder2.png" width="400">
+    <img src="https://github.com/tgh-apil/airway_intubation_model/blob/main/images/trachea_tumor_casting/holder1_holder2.png" width="400">
