@@ -43,7 +43,7 @@ To be printed in hard plastic (PLA, etc.):
 - pharynx ([upper_jaw_pharynx.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/pharynx_casting/upper_jaw_pharynx.stl))
 - mandible
 - epiglottis plate
-- forehead and neck bars
+- forehead and neck bars ([skin_forehead_bar.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/skin_casting/skin_forehead_bar.stl); [skin_neck_bar.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/skin_casting/skin_neck_bar.stl))
 - top thyroid connector
 - bottom thyroid connectors; left and right
 - vocal fold wings; left and right
@@ -61,7 +61,7 @@ Instructions for casting and assembling these components are linked below.
   - healthy and pathological (base of tongue tumor) variants
 - vocal folds *(cast with vocal fold wing components)*
   - healthy and pathological (tumor) variants
-- skin *(cast with mesh fabric)*
+- [skin](https://github.com/tgh-apil/airway_intubation_model/blob/main/skin_casting.md) *(cast with mesh fabric)*
 - silicone hinges *(cast with mesh fabric)*
 - trachea tumor
   - for [pathological trachea variant](https://github.com/tgh-apil/airway_intubation_model/blob/main/trachea_tumor_casting.md)
