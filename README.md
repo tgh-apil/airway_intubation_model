@@ -37,20 +37,20 @@ These instructions are for the assembly of the model once each individual compon
 ## Components
 ### Printed components
 To be printed in hard plastic (PLA, etc.):
-- base cover
-- base
-- skull
+- base cover ([intubation_base_cover.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/base/intubation_base_cover.stl))
+- base ([intubation_base.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/base/intubation_base.stl))
+- skull ([skull.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/base/skull.stl))
 - pharynx ([upper_jaw_pharynx.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/pharynx_casting/upper_jaw_pharynx.stl))
 - mandible ([mandible.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/mandible_and_tongue_casting/mandible.stl))
 - epiglottis casting plate ([epiglottis_plate.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/mandible_and_tongue_casting/epiglottis_plate.stl))
 - forehead and neck bars ([skin_forehead_bar.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/skin_casting/skin_forehead_bar.stl); [skin_neck_bar.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/skin_casting/skin_neck_bar.stl))
-- top thyroid connector
-- bottom thyroid connectors; left and right
+- top thyroid connector ([thyroid_connector_top.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/thyroid_cartilage_and_connector/thyroid_connector_top.stl))
+- bottom thyroid connectors; left and right ([thyroid_connector_bottom_L](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/thyroid_cartilage_and_connector/thyroid_connector_bottom_L.stl); [thyroid_connector_bottom_R](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/thyroid_cartilage_and_connector/thyroid_connector_bottom_R.stl))
 - vocal fold wings; left and right
 
 To be printed in flexible plastic (TPE, etc.):
-- nasal passage
-- thyroid cartilage
+- nasal passage ([nasal_passage.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/nasal_passage.stl))
+- thyroid cartilage ([thyroid_cartilege.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/thyroid_cartilage_and_connector/thyroid_cartilege.stl))
 - trachea
   - healthy ([trachea_healthy_v3.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/trachea/trachea_healthy_v3.stl)) and pathological ([trachea_tumor.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/trachea/pathological/trachea_tumor.stl)) variants
 
