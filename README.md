@@ -41,8 +41,8 @@ To be printed in hard plastic (PLA, etc.):
 - base
 - skull
 - pharynx ([upper_jaw_pharynx.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/pharynx_casting/upper_jaw_pharynx.stl))
-- mandible
-- epiglottis plate
+- mandible ([mandible.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/mandible_and_tongue_casting/mandible.stl))
+- epiglottis casting plate ([epiglottis_plate.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/mandible_and_tongue_casting/epiglottis_plate.stl))
 - forehead and neck bars ([skin_forehead_bar.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/skin_casting/skin_forehead_bar.stl); [skin_neck_bar.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/skin_casting/skin_neck_bar.stl))
 - top thyroid connector
 - bottom thyroid connectors; left and right
@@ -57,7 +57,7 @@ To be printed in flexible plastic (TPE, etc.):
 ### Silicone components
 Instructions for casting and assembling these components are linked below.
 - [pharynx](https://github.com/tgh-apil/airway_intubation_model/blob/main/pharynx_casting.md) *(cast with 3D printed pharynx component)*
-- mandible *(cast with mandible and epiglottis plate components)*
+- [mandible and tongue](https://github.com/tgh-apil/airway_intubation_model/blob/main/mandible_and_tongue_casting.md) *(cast with mandible and epiglottis plate components, and optionally with mesh fabric)*
   - healthy and pathological (base of tongue tumor) variants
 - vocal folds *(cast with vocal fold wing components)*
   - healthy and pathological (tumor) variants
