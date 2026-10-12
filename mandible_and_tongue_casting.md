@@ -54,7 +54,7 @@ Pathological mold components:
 
 ### Instructions
 1. Print the components listed above for the desired variant (the healthy variant is shown in the images below).
-2. Apply mold release agent to the mold components. Do not apply it to the mandible or epiglottis casting plate, as the silicone is not intended to be removed from these component.
+2. Apply mold release agent to the mold components. Do not apply it to the mandible or epiglottis casting plate, as the silicone is not intended to be removed from these components.
 3. Optionally, cut out a small rectangle of mesh fabric large enough to cover the epiglottis plate—about 2cm x 4cm. Overlay it on top of the plate and use a marker to mark the location of the holes for the screws, then make small cuts in the fabric at these locations to ease the screw insertion process later. (Note: The mesh is not strictly necessary, but improves the longevity of the cast piece by preventing the epiglottis plate from tearing out of the silicone.)
 4. Per the image below, align the epiglottis plate about 0.5cm above the bottom mold component so that the holes in the plate are aligned with those of the bottom mold component, and the concave side of the plate faces the convex side of the bottom mold component. Use two 14mm M3 screws to attach the two while maintaining the ~0.5cm gap. If using the mesh fabric, pass the screws through it as well and insert it between the epiglottis plate and the mold component.
 
