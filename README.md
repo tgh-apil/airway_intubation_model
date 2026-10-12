@@ -45,8 +45,9 @@ To be printed in hard plastic (PLA, etc.):
 - epiglottis casting plate ([epiglottis_plate.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/mandible_and_tongue_casting/epiglottis_plate.stl))
 - forehead and neck bars ([skin_forehead_bar.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/skin_casting/skin_forehead_bar.stl); [skin_neck_bar.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/skin_casting/skin_neck_bar.stl))
 - top thyroid connector ([thyroid_connector_top.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/thyroid_cartilage_and_connector/thyroid_connector_top.stl))
-- bottom thyroid connectors; left and right ([thyroid_connector_bottom_L](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/thyroid_cartilage_and_connector/thyroid_connector_bottom_L.stl); [thyroid_connector_bottom_R](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/thyroid_cartilage_and_connector/thyroid_connector_bottom_R.stl))
-- vocal fold wings; left and right
+- bottom thyroid connectors; left and right ([thyroid_connector_bottom_L.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/thyroid_cartilage_and_connector/thyroid_connector_bottom_L.stl); [thyroid_connector_bottom_R.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/thyroid_cartilage_and_connector/thyroid_connector_bottom_R.stl))
+  - Note that the pathological vocal folds variant requires a different right bottom thyroid connector component ([thyroid_connector_bottom_R_tumor.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/vocal_folds/pathological_anatomy/thyroid_connector_bottom_R_tumor.stl))
+- vocal fold wings; left and right ([vocal_fold_wing_L.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/vocal_folds/vocal_fold_wing_L.stl); [vocal_fold_wing_R.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/vocal_folds/vocal_fold_wing_R.stl))
 
 To be printed in flexible plastic (TPE, etc.):
 - nasal passage ([nasal_passage.stl](https://github.com/tgh-apil/airway_intubation_model/blob/main/stl_files/nasal_passage.stl))
@@ -59,7 +60,7 @@ Instructions for casting and assembling these components are linked below.
 - [pharynx](https://github.com/tgh-apil/airway_intubation_model/blob/main/pharynx_casting.md) *(cast with 3D printed pharynx component)*
 - [mandible and tongue](https://github.com/tgh-apil/airway_intubation_model/blob/main/mandible_and_tongue_casting.md) *(cast with mandible and epiglottis plate components, and optionally with mesh fabric)*
   - healthy and pathological (base of tongue tumor) variants
-- vocal folds *(cast with vocal fold wing components)*
+- [vocal folds](https://github.com/tgh-apil/airway_intubation_model/blob/main/vocal_folds_casting.md) *(cast with vocal fold wing components)*
   - healthy and pathological (tumor) variants
 - [skin](https://github.com/tgh-apil/airway_intubation_model/blob/main/skin_casting.md) *(cast with mesh fabric)*
 - silicone hinges *(cast with mesh fabric)*
@@ -80,6 +81,7 @@ Instructions for casting and assembling these components are linked below.
 <img src="https://github.com/tgh-apil/airway_intubation_model/blob/main/images/model_assembly_instructions/4_attaching_tongue_thyroid.png" width="400">
 
 5. Assemble the vocal folds and trachea. First, sandwich the vocal folds between the top connector and both bottom connectors, then attach together with four 10mm M3s. Then attach the trachea below with four 18mm M3s and four M3 nuts.
+    - Note that the pathological vocal folds variant should be attached with the pathological bottom right connector component.
 <img src="https://github.com/tgh-apil/airway_intubation_model/blob/main/images/model_assembly_instructions/5_attaching_VF_thyroid connector.png" width="500">
 
 6. Attach the vocal fold/trachea complex to the thyroid with four 10mm M3s.
